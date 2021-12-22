@@ -1,0 +1,12 @@
+.title {
+    text-align: center;
+    background-color: lightcoral;
+    border-style: solid;
+    border-width: 2.5px;
+    font-family: sans-serif;
+}
+
+.link {
+    text-align: center;
+    background-color: lightblue;
+}
